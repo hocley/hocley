@@ -61,5 +61,7 @@
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hocley&layout=compact&theme=algolia" alt="SubhadeepZilong" /></a> </p>
 
+Última edición en [2024/12/22]
+
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&reversal=false&section=footer"/>
