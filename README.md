@@ -7,7 +7,7 @@
  <p>- <i>Soy José Merchán (hocley). Estudiante de Ingeniería en Software en la Escuela Politécninca Nacional (Quito, Ecuador), apasionado por la tecnología y la programación. Sigo mejorando mis habilidades en programación y buenas prácticas, y descubriendo nuevas tecnologías. Me gusta la inteligencia artificial, aplicaciones web, móbiles y de escritorio. Comprometido con el aprendizaje continuo.</i></p>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
-<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExaXcyMmUycG8xem02bHBrbzN2OGtqa3A5b2xuMWdrcXV5ZXppN2l2cSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/nFLW7PNGgN3lI68rdv/giphy.webp" width="240" align="right" />
+<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExaXcyMmUycG8xem02bHBrbzN2OGtqa3A5b2xuMWdrcXV5ZXppN2l2cSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/nFLW7PNGgN3lI68rdv/giphy.webp" width="200" align="right" />
 
 # <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> Conecta conmigo
 <p align="left">
